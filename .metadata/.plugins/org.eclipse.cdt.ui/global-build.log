@@ -3,3 +3,357 @@ Info: Internal Builder is used for build
 g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\chapter1_GettingStarted.o" "..\\src\\chapter1_GettingStarted.cpp" 
 g++ -o chapter1_GettingStarted.exe "src\\chapter1_GettingStarted.o" 
 Info: Nothing to build for chapter1_GettingStarted
+20:08:31 **** Incremental Build of configuration Debug for project chapter1_GettingStarted ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\chapter1_GettingStarted.o" "..\\src\\chapter1_GettingStarted.cpp" 
+g++ -o chapter1_GettingStarted.exe "src\\chapter1_GettingStarted.o" 
+21:08:23 **** Incremental Build of configuration Debug for project chapter1_GettingStarted ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\chapter1_GettingStarted.o" "..\\src\\chapter1_GettingStarted.cpp" 
+..\src\chapter1_GettingStarted.cpp:36:1: warning: "/*" within comment [-Wcomment]
+ /* Now lets look at the idea of the variables in C++
+  
+..\src\chapter1_GettingStarted.cpp:71:1: error: expected declaration before '}' token
+ }
+ ^
+21:08:32 **** Incremental Build of configuration Debug for project chapter1_GettingStarted ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\chapter1_GettingStarted.o" "..\\src\\chapter1_GettingStarted.cpp" 
+..\src\chapter1_GettingStarted.cpp:36:1: warning: "/*" within comment [-Wcomment]
+ /* Now lets look at the idea of the variables in C++
+  
+..\src\chapter1_GettingStarted.cpp:71:1: error: expected declaration before '}' token
+ }
+ ^
+21:08:36 **** Incremental Build of configuration Debug for project chapter1_GettingStarted ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\chapter1_GettingStarted.o" "..\\src\\chapter1_GettingStarted.cpp" 
+..\src\chapter1_GettingStarted.cpp:36:1: warning: "/*" within comment [-Wcomment]
+ /* Now lets look at the idea of the variables in C++
+  
+..\src\chapter1_GettingStarted.cpp:71:1: error: expected declaration before '}' token
+ }
+ ^
+21:09:13 **** Incremental Build of configuration Debug for project chapter1_GettingStarted ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\chapter1_GettingStarted.o" "..\\src\\chapter1_GettingStarted.cpp" 
+..\src\chapter1_GettingStarted.cpp:36:1: warning: "/*" within comment [-Wcomment]
+ /* Now lets look at the idea of the variables in C++
+  
+..\src\chapter1_GettingStarted.cpp:71:1: error: expected declaration before '}' token
+ }
+ ^
+21:09:44 **** Incremental Build of configuration Debug for project chapter1_GettingStarted ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\chapter1_GettingStarted.o" "..\\src\\chapter1_GettingStarted.cpp" 
+..\src\chapter1_GettingStarted.cpp:36:1: warning: "/*" within comment [-Wcomment]
+ /* Now lets look at the idea of the variables in C++
+  
+..\src\chapter1_GettingStarted.cpp:71:1: error: expected declaration before '}' token
+ }
+ ^
+21:10:47 **** Incremental Build of configuration Debug for project chapter1_GettingStarted ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\chapter1_GettingStarted.o" "..\\src\\chapter1_GettingStarted.cpp" 
+..\src\chapter1_GettingStarted.cpp:36:1: warning: "/*" within comment [-Wcomment]
+ /* Now lets look at the idea of the variables in C++
+  
+..\src\chapter1_GettingStarted.cpp:71:1: error: expected declaration before '}' token
+ }
+ ^
+21:10:58 **** Incremental Build of configuration Debug for project chapter1_GettingStarted ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\chapter1_GettingStarted.o" "..\\src\\chapter1_GettingStarted.cpp" 
+..\src\chapter1_GettingStarted.cpp:36:1: warning: "/*" within comment [-Wcomment]
+ /* Now lets look at the idea of the variables in C++
+  
+..\src\chapter1_GettingStarted.cpp:74:1: error: expected declaration before '}' token
+ }
+ ^
+21:11:30 **** Incremental Build of configuration Debug for project chapter1_GettingStarted ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\chapter1_GettingStarted.o" "..\\src\\chapter1_GettingStarted.cpp" 
+..\src\chapter1_GettingStarted.cpp:36:1: warning: "/*" within comment [-Wcomment]
+ /* Now lets look at the idea of the variables in C++
+  
+..\src\chapter1_GettingStarted.cpp:74:1: error: expected declaration before '}' token
+ }
+ ^
+21:12:25 **** Incremental Build of configuration Debug for project chapter1_GettingStarted ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\chapter1_GettingStarted.o" "..\\src\\chapter1_GettingStarted.cpp" 
+..\src\chapter1_GettingStarted.cpp:36:1: warning: "/*" within comment [-Wcomment]
+ /* Now lets look at the idea of the variables in C++
+  
+..\src\chapter1_GettingStarted.cpp:74:1: error: expected declaration before '}' token
+ }
+ ^
+21:12:32 **** Incremental Build of configuration Debug for project chapter1_GettingStarted ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\chapter1_GettingStarted.o" "..\\src\\chapter1_GettingStarted.cpp" 
+..\src\chapter1_GettingStarted.cpp:42:1: error: expected declaration before '}' token
+ }
+ ^
+21:13:04 **** Incremental Build of configuration Debug for project chapter1_GettingStarted ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\chapter1_GettingStarted.o" "..\\src\\chapter1_GettingStarted.cpp" 
+..\src\chapter1_GettingStarted.cpp:42:1: error: expected declaration before '}' token
+ }
+ ^
+21:13:33 **** Incremental Build of configuration Debug for project chapter1_GettingStarted ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\chapter1_GettingStarted.o" "..\\src\\chapter1_GettingStarted.cpp" 
+..\src\chapter1_GettingStarted.cpp:42:1: error: expected declaration before '}' token
+ }
+ ^
+21:13:54 **** Incremental Build of configuration Debug for project chapter1_GettingStarted ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\chapter1_GettingStarted.o" "..\\src\\chapter1_GettingStarted.cpp" 
+..\src\chapter1_GettingStarted.cpp:42:1: error: expected declaration before '}' token
+ }
+ ^
+21:14:20 **** Incremental Build of configuration Debug for project chapter1_GettingStarted ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\chapter1_GettingStarted.o" "..\\src\\chapter1_GettingStarted.cpp" 
+..\src\chapter1_GettingStarted.cpp:42:1: error: expected declaration before '}' token
+ }
+ ^
+21:14:25 **** Incremental Build of configuration Debug for project chapter1_GettingStarted ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\chapter1_GettingStarted.o" "..\\src\\chapter1_GettingStarted.cpp" 
+..\src\chapter1_GettingStarted.cpp:42:1: error: expected declaration before '}' token
+ }
+ ^
+21:15:05 **** Incremental Build of configuration Debug for project chapter1_GettingStarted ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\chapter1_GettingStarted.o" "..\\src\\chapter1_GettingStarted.cpp" 
+..\src\chapter1_GettingStarted.cpp:42:1: error: expected declaration before '}' token
+ }
+ ^
+21:15:10 **** Incremental Build of configuration Debug for project chapter1_GettingStarted ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\chapter1_GettingStarted.o" "..\\src\\chapter1_GettingStarted.cpp" 
+..\src\chapter1_GettingStarted.cpp:41:1: error: expected declaration before '}' token
+ }
+ ^
+21:16:38 **** Incremental Build of configuration Debug for project chapter1_GettingStarted ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\chapter1_GettingStarted.o" "..\\src\\chapter1_GettingStarted.cpp" 
+..\src\chapter1_GettingStarted.cpp:43:1: error: expected declaration before '}' token
+ }
+ ^
+21:16:51 **** Incremental Build of configuration Debug for project chapter1_GettingStarted ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\chapter1_GettingStarted.o" "..\\src\\chapter1_GettingStarted.cpp" 
+..\src\chapter1_GettingStarted.cpp:43:1: error: expected declaration before '}' token
+ }
+ ^
+21:17:13 **** Incremental Build of configuration Debug for project chapter1_GettingStarted ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\chapter1_GettingStarted.o" "..\\src\\chapter1_GettingStarted.cpp" 
+..\src\chapter1_GettingStarted.cpp:43:1: error: expected declaration before '}' token
+ }
+ ^
+21:18:14 **** Incremental Build of configuration Debug for project chapter1_GettingStarted ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\chapter1_GettingStarted.o" "..\\src\\chapter1_GettingStarted.cpp" 
+..\src\chapter1_GettingStarted.cpp:43:1: error: expected declaration before '}' token
+ }
+ ^
+21:18:23 **** Incremental Build of configuration Debug for project chapter1_GettingStarted ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\chapter1_GettingStarted.o" "..\\src\\chapter1_GettingStarted.cpp" 
+g++ -o chapter1_GettingStarted.exe "src\\chapter1_GettingStarted.o" 
+Info: Nothing to build for chapter1_GettingStarted
+Info: Nothing to build for chapter1_GettingStarted
+21:22:17 **** Incremental Build of configuration Debug for project chapter1_GettingStarted ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\chapter1_GettingStarted.o" "..\\src\\chapter1_GettingStarted.cpp" 
+..\src\chapter1_GettingStarted.cpp: In function 'int main(int, char**)':
+..\src\chapter1_GettingStarted.cpp:37:16: warning: unused variable 'column' [-Wunused-variable]
+   int row = 1, column = 2;
+                ^~~~~~
+..\src\chapter1_GettingStarted.cpp:38:10: warning: unused variable 'temperature' [-Wunused-variable]
+   double temperature = 3.0;
+          ^~~~~~~~~~~
+g++ -o chapter1_GettingStarted.exe "src\\chapter1_GettingStarted.o" 
+Info: Nothing to build for chapter1_GettingStarted
+21:22:55 **** Incremental Build of configuration Debug for project chapter1_GettingStarted ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\chapter1_GettingStarted.o" "..\\src\\chapter1_GettingStarted.cpp" 
+g++ -o chapter1_GettingStarted.exe "src\\chapter1_GettingStarted.o" 
+Info: Nothing to build for chapter1_GettingStarted
+Info: Nothing to build for chapter1_GettingStarted
+21:24:32 **** Incremental Build of configuration Debug for project chapter1_GettingStarted ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\chapter1_GettingStarted.o" "..\\src\\chapter1_GettingStarted.cpp" 
+g++ -o chapter1_GettingStarted.exe "src\\chapter1_GettingStarted.o" 
+Info: Nothing to build for chapter1_GettingStarted
+Info: Nothing to build for chapter1_GettingStarted
+Info: Nothing to build for chapter1_GettingStarted
+Info: Nothing to build for chapter1_GettingStarted
+21:28:26 **** Incremental Build of configuration Debug for project chapter1_GettingStarted ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\chapter1_GettingStarted.o" "..\\src\\chapter1_GettingStarted.cpp" 
+..\src\chapter1_GettingStarted.cpp: In function 'int main(int, char**)':
+..\src\chapter1_GettingStarted.cpp:60:5: error: redefinition of 'int main(int, char**)'
+ int main(int argc, char* argv[])
+     ^~~~
+..\src\chapter1_GettingStarted.cpp:48:5: note: 'int main(int, char**)' previously defined here
+ int main(int argc, char* argv[])
+     ^~~~
+21:28:59 **** Incremental Build of configuration Debug for project chapter1_GettingStarted ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\chapter1_GettingStarted.o" "..\\src\\chapter1_GettingStarted.cpp" 
+..\src\chapter1_GettingStarted.cpp: In function 'int main()':
+..\src\chapter1_GettingStarted.cpp:60:5: error: conflicting declaration of C function 'int main()'
+ int main()
+     ^~~~
+..\src\chapter1_GettingStarted.cpp:48:5: note: previous declaration 'int main(int, char**)'
+ int main(int argc, char* argv[])
+     ^~~~
+21:29:24 **** Incremental Build of configuration Debug for project chapter1_GettingStarted ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\chapter1_GettingStarted.o" "..\\src\\chapter1_GettingStarted.cpp" 
+g++ -o chapter1_GettingStarted.exe "src\\chapter1_GettingStarted.o" 
+Info: Nothing to build for chapter1_GettingStarted
+21:31:41 **** Incremental Build of configuration Debug for project chapter1_GettingStarted ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\chapter1_GettingStarted.o" "..\\src\\chapter1_GettingStarted.cpp" 
+g++ -o chapter1_GettingStarted.exe "src\\chapter1_GettingStarted.o" 
+Info: Nothing to build for chapter1_GettingStarted
+Info: Nothing to build for chapter1_GettingStarted
+21:33:20 **** Incremental Build of configuration Debug for project chapter1_GettingStarted ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\chapter1_GettingStarted.o" "..\\src\\chapter1_GettingStarted.cpp" 
+g++ -o chapter1_GettingStarted.exe "src\\chapter1_GettingStarted.o" 
+Info: Nothing to build for chapter1_GettingStarted
+21:37:10 **** Incremental Build of configuration Debug for project chapter1_GettingStarted ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\chapter1_GettingStarted.o" "..\\src\\chapter1_GettingStarted.cpp" 
+g++ -o chapter1_GettingStarted.exe "src\\chapter1_GettingStarted.o" 
+Info: Nothing to build for chapter1_GettingStarted
+21:37:50 **** Incremental Build of configuration Debug for project chapter1_GettingStarted ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\chapter1_GettingStarted.o" "..\\src\\chapter1_GettingStarted.cpp" 
+g++ -o chapter1_GettingStarted.exe "src\\chapter1_GettingStarted.o" 
+Info: Nothing to build for chapter1_GettingStarted
+21:38:39 **** Incremental Build of configuration Debug for project chapter1_GettingStarted ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\chapter1_GettingStarted.o" "..\\src\\chapter1_GettingStarted.cpp" 
+g++ -o chapter1_GettingStarted.exe "src\\chapter1_GettingStarted.o" 
+Info: Nothing to build for chapter1_GettingStarted
+Info: Nothing to build for chapter1_GettingStarted
+22:14:32 **** Incremental Build of configuration Debug for project chapter1_GettingStarted ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\chapter1_GettingStarted.o" "..\\src\\chapter1_GettingStarted.cpp" 
+..\src\chapter1_GettingStarted.cpp:21:18: fatal error: Rcpp.h: No such file or directory
+ #include <Rcpp.h>
+                  ^
+compilation terminated.
+22:32:48 **** Incremental Build of configuration Debug for project chapter1_GettingStarted ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\chapter1_GettingStarted.o" "..\\src\\chapter1_GettingStarted.cpp" 
+..\src\chapter1_GettingStarted.cpp:114:14: error: 'NumericVector' was not declared in this scope
+ double meanC(NumericVector x) {
+              ^~~~~~~~~~~~~
+09:00:46 **** Incremental Build of configuration Debug for project chapter1_GettingStarted ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\chapter1_GettingStarted.o" "..\\src\\chapter1_GettingStarted.cpp" 
+g++ -o chapter1_GettingStarted.exe "src\\chapter1_GettingStarted.o" 
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/6.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file chapter1_GettingStarted.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+09:00:47 **** Rebuild of configuration Debug for project chater2_FlowOfControl ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\chater2_FlowOfControl.o" "..\\src\\chater2_FlowOfControl.cpp" 
+g++ -o chater2_FlowOfControl.exe "src\\chater2_FlowOfControl.o" 
+Info: Nothing to build for chater2_FlowOfControl
+09:05:14 **** Incremental Build of configuration Debug for project chapter1_GettingStarted ****
+Info: Internal Builder is used for build
+g++ -o chapter1_GettingStarted.exe "src\\chapter1_GettingStarted.o" 
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/6.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file chapter1_GettingStarted.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+09:05:14 **** Incremental Build of configuration Debug for project chater2_FlowOfControl ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\chater2_FlowOfControl.o" "..\\src\\chater2_FlowOfControl.cpp" 
+g++ -o chater2_FlowOfControl.exe "src\\chater2_FlowOfControl.o" 
+Info: Nothing to build for chater2_FlowOfControl
+Info: Nothing to build for chater2_FlowOfControl
+09:06:31 **** Incremental Build of configuration Debug for project chapter1_GettingStarted ****
+Info: Internal Builder is used for build
+g++ -o chapter1_GettingStarted.exe "src\\chapter1_GettingStarted.o" 
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/6.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file chapter1_GettingStarted.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+09:06:31 **** Incremental Build of configuration Debug for project chater2_FlowOfControl ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\chater2_FlowOfControl.o" "..\\src\\chater2_FlowOfControl.cpp" 
+g++ -o chater2_FlowOfControl.exe "src\\chater2_FlowOfControl.o" 
+Info: Nothing to build for chater2_FlowOfControl
+Info: Nothing to build for chater2_FlowOfControl
+Info: Nothing to build for chater2_FlowOfControl
+09:06:43 **** Incremental Build of configuration Debug for project chapter1_GettingStarted ****
+Info: Internal Builder is used for build
+g++ -o chapter1_GettingStarted.exe "src\\chapter1_GettingStarted.o" 
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/6.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file chapter1_GettingStarted.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for chater2_FlowOfControl
+Info: Nothing to build for chater2_FlowOfControl
+09:07:02 **** Incremental Build of configuration Debug for project chapter1_GettingStarted ****
+Info: Internal Builder is used for build
+g++ -o chapter1_GettingStarted.exe "src\\chapter1_GettingStarted.o" 
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/6.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file chapter1_GettingStarted.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+09:07:02 **** Incremental Build of configuration Debug for project chater2_FlowOfControl ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\chater2_FlowOfControl.o" "..\\src\\chater2_FlowOfControl.cpp" 
+g++ -o chater2_FlowOfControl.exe "src\\chater2_FlowOfControl.o" 
+Info: Nothing to build for chater2_FlowOfControl
+Info: Nothing to build for chater2_FlowOfControl
+Info: Nothing to build for chater2_FlowOfControl
+09:08:08 **** Incremental Build of configuration Debug for project chapter1_GettingStarted ****
+Info: Internal Builder is used for build
+g++ -o chapter1_GettingStarted.exe "src\\chapter1_GettingStarted.o" 
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/6.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file chapter1_GettingStarted.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+09:08:08 **** Incremental Build of configuration Debug for project chater2_FlowOfControl ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\chater2_FlowOfControl.o" "..\\src\\chater2_FlowOfControl.cpp" 
+g++ -o chater2_FlowOfControl.exe "src\\chater2_FlowOfControl.o" 
+Info: Nothing to build for chater2_FlowOfControl
+09:08:47 **** Incremental Build of configuration Debug for project chapter1_GettingStarted ****
+Info: Internal Builder is used for build
+g++ -o chapter1_GettingStarted.exe "src\\chapter1_GettingStarted.o" 
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/6.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file chapter1_GettingStarted.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+09:08:47 **** Incremental Build of configuration Debug for project chater2_FlowOfControl ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\chater2_FlowOfControl.o" "..\\src\\chater2_FlowOfControl.cpp" 
+g++ -o chater2_FlowOfControl.exe "src\\chater2_FlowOfControl.o" 
+Info: Nothing to build for chater2_FlowOfControl
+09:13:45 **** Incremental Build of configuration Debug for project chapter1_GettingStarted ****
+Info: Internal Builder is used for build
+g++ -o chapter1_GettingStarted.exe "src\\chapter1_GettingStarted.o" 
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/6.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file chapter1_GettingStarted.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+09:13:45 **** Incremental Build of configuration Debug for project chater2_FlowOfControl ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\chater2_FlowOfControl.o" "..\\src\\chater2_FlowOfControl.cpp" 
+g++ -o chater2_FlowOfControl.exe "src\\chater2_FlowOfControl.o" 
+Info: Nothing to build for chater2_FlowOfControl
+Info: Nothing to build for chater2_FlowOfControl
+09:14:22 **** Incremental Build of configuration Debug for project chater2_FlowOfControl ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\chater2_FlowOfControl.o" "..\\src\\chater2_FlowOfControl.cpp" 
+g++ -o chater2_FlowOfControl.exe "src\\chater2_FlowOfControl.o" 
+09:17:36 **** Incremental Build of configuration Debug for project chapter1_GettingStarted ****
+Info: Internal Builder is used for build
+g++ -o chapter1_GettingStarted.exe "src\\chapter1_GettingStarted.o" 
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/6.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file chapter1_GettingStarted.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+09:17:36 **** Incremental Build of configuration Debug for project chater2_FlowOfControl ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\chater2_FlowOfControl.o" "..\\src\\chater2_FlowOfControl.cpp" 
+g++ -o chater2_FlowOfControl.exe "src\\chater2_FlowOfControl.o" 
+Info: Nothing to build for chater2_FlowOfControl
+Info: Nothing to build for chater2_FlowOfControl
+Info: Nothing to build for chater2_FlowOfControl

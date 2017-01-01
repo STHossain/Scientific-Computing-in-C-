@@ -1,1 +1,8 @@
-Info: Nothing to build for chapter1_GettingStarted
+09:17:36 **** Incremental Build of configuration Debug for project chapter1_GettingStarted ****
+Info: Internal Builder is used for build
+g++ -o chapter1_GettingStarted.exe "src\\chapter1_GettingStarted.o" 
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/6.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file chapter1_GettingStarted.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+
+09:17:36 Build Finished (took 86ms)
+

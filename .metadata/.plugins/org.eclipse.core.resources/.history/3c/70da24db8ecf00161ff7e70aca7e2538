@@ -1,0 +1,30 @@
+//============================================================================
+// Name        : chapter1_GettingStarted.cpp
+// Author      : 
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+
+/* the hellow world program */
+
+/*
+#include <iostream>
+using namespace std;
+
+int main() {
+	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
+	return 0;
+}
+
+ we could also do it in a slightly by just not using the std
+  in namespace */
+
+// But then do not use endl
+
+#include <iostream>
+
+int main() {
+	std::cout << "!!!Hello World!!!"; // prints !!!Hello World!!!
+	return 0;
+}

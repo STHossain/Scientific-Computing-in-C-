@@ -1,0 +1,32 @@
+//============================================================================
+// Name        : chater2_FlowOfControl.cpp
+// Author      : Tanvir
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+
+#include <iostream>
+
+
+
+// If statement
+/*
+int main(int argc, char* argv[])
+	{
+	double x = -2.0;
+	if (x < 0.0)
+		{
+		x = 0.0;
+		}
+	std::cout << x;
+	}
+*/
+
+
+int main(int argc, char* argv[])
+		{
+		int row = 1, column = 2;
+		double temperature = 3.0;
+		std:: cout<< row << column << temperature;
+		}

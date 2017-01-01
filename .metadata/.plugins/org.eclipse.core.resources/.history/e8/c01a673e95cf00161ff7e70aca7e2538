@@ -1,0 +1,71 @@
+//============================================================================
+// Name        : chapter1_GettingStarted.cpp
+// Author      : 
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+
+/* the hellow world program */
+
+/*
+#include <iostream>
+using namespace std;
+
+int main() {
+	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
+	return 0;
+}
+
+ we could also do it in a slightly by just not using the std
+  in namespace */
+
+// But then do not use endl
+
+// PROGRAM 1: so the first program
+
+/*--------------------------------------------------------------------
+
+#include <iostream>
+
+int main() {
+	std::cout << "!!!Hello World!!!"; // prints !!!Hello World!!!
+	return 0;
+}
+
+/* Now lets look at the idea of the variables in C++
+
+-------------------------------------------------------------------*/
+
+// PROGRAM 2: variables
+// I will play around with some variables in C++
+// Some notes: Some important variable types are Integer (Int) and decimal numbers
+// (double). Some other variants of integer is
+
+#include <iostream>
+
+int main() {
+	int pin;
+	std::cout << "Enter your PIN, then hit RETURN\n";
+	std::cin >> pin;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

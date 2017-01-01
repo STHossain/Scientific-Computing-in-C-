@@ -5,11 +5,109 @@
 // Copyright   : Your copyright notice
 // Description : Hello World in C++, Ansi-style
 //============================================================================
+// PROGRAM 2: variables
+// I will play around with some variables in C++
+// Some notes: Some important variable types are Integer (Int) and decimal numbers
+// (double). Some other variants of integer is
+
+// getting started
 
 #include <iostream>
-using namespace std;
+#include <string> //for string
+#include <cmath> //for math
+#include <cassert> //for asssert
 
-int main() {
-	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
+//for Rcpp
+//#include <Rcpp.h>
+//using namespace Rcpp;
+
+//-----------------------------------------
+
+/*
+int main(int argc, char* argv[])
+	{
+	//This is a comment and will be ignored by the compiler
+	//Comments are useful to explain in English whatthe program does
+
+	// Print "Hello World" to the screen
+	std::cout << "Hello WWWWorld\n";
 	return 0;
-}
+	}
+*/
+
+
+//------------------------------------------------
+// variable type
+
+/*
+int main(int argc, char* argv[])
+		{
+		int row = 1, column = 2;
+		double temperature = 3.0;
+		std:: cout<< row << column << temperature;
+		}
+*/
+
+//--------------------------------------------
+// keyboard input
+
+/*
+
+int main(int argc, char* argv[])
+		{
+		int pin;
+		std::cout << "Enter your PIN, then hit RETURN\n";
+		std::cin >> pin;
+		return 0;
+		}
+*/
+// strange fact, I entered a string it didn't say anything????
+
+//------------------------------------------------------
+// strings
+
+/*
+int main(int argc, char* argv[])
+	{
+		std::string city; // note the std::
+		city = "Oxford"; // note the double quotation marks
+		std::cout << "String length = " <<city.length() << "\n";
+		std::cout << "Third character = " << city.at(2) << "\n";
+		std::cout << "Third character = " << city[2] << "\n";
+		std::cout << city << "\n"; // Prints the string in city
+		std::cout << city.c_str() << "\n"; // Also prints city
+		return 0;
+	}
+*/
+
+/*
+int main(int argc, char* argv[])
+	{
+		double a;
+		std::cout << "Enter a non-negative number\n";
+		std::cin >> a;
+		assert(a >= 0.0);
+		std::cout << "The square root of "<< a;
+		std::cout << " is " << sqrt(a) << "\n";
+		return 0;
+	}
+
+*/
+
+// note the last two lines are actually one line, he just separated
+
+// Rcpp test
+
+/*
+int main(int argc, char* argv[])
+	{
+	//This is a comment and will be ignored by the compiler
+	//Comments are useful to explain in English whatthe program does
+
+	// Print "Hello World" to the screen
+	std::cout << "Hello WWWWorld\n";
+	return 0;
+	}
+*/
+
+

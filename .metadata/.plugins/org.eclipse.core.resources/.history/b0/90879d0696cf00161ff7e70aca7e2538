@@ -1,0 +1,41 @@
+//============================================================================
+// Name        : chapter1_GettingStarted.cpp
+// Author      : 
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+// PROGRAM 2: variables
+// I will play around with some variables in C++
+// Some notes: Some important variable types are Integer (Int) and decimal numbers
+// (double). Some other variants of integer is
+
+#include <iostream>
+#include <string>
+
+int main (int argc, char* argv[])
+	{
+	int pin;
+	std::cin >> pin;
+	std::cout << "Enter your PIN, then hit RETURN\n";
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
